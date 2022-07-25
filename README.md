@@ -1,4 +1,4 @@
-# Emotion Recognition Webcam
+# Facial Expression Recognition Webcam
 
 App collaborated by Louise Lu and Xihan Zhao.
 
